@@ -1,8 +1,8 @@
-sidux-settings-kde (1.0.12) UNRELEASED; urgency=low
+sidux-settings-kde (1.0.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix vcs URI.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 16:28:13 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 16:34:38 +0100
 
 sidux-settings-kde (1.0.11) unstable; urgency=low
 
