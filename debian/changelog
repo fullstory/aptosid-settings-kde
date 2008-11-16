@@ -1,0 +1,235 @@
+sidux-settings-kde (1.0.11) unstable; urgency=low
+
+  * rename source package.
+  * drop metapackage.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 16:27:17 +0100
+
+sidux-art-kde (1.0.10) unstable; urgency=low
+
+  * Bump konversation text font up to 10pt.
+
+ -- Kel Modderman <kel@otaku42.de>  Wed, 10 Sep 2008 20:31:30 +1000
+
+sidux-art-kde (1.0.9) unstable; urgency=low
+
+  * Do not explcitly set font family name. Let the system choose the correct
+    one.
+
+ -- Kel Modderman <kel@otaku42.de>  Wed, 10 Sep 2008 06:33:33 +1000
+
+sidux-art-kde (1.0.8) unstable; urgency=low
+
+  * Do not globally disable kpersonalizerrc.
+  * Move sidux-browser and ttf-dejavu to Recommends.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 20:57:47 +1000
+
+sidux-art-kde (1.0.7) unstable; urgency=low
+
+  * Fix location to korganizer rc config file.
+  * Remove versioned dependency on sidux-art-kde, there is no known
+    reason why it would be required.
+  * Change to 9pt font size per default. Reduce clock font size to 10pt.
+  * Disable first time personalizer wizard for all users.
+  * Disable KDE login splash screen, this force user to choose their own
+    instead of complain about our choice.
+  * Set wallapaper to default KDE 3.5 wallapaper, user can choose their own
+    as above.
+  * Depend on sidux-browser, it is used as a default.
+
+ -- Kel Modderman <kel@otaku42.de>  Sun, 07 Sep 2008 05:49:28 +1000
+
+sidux-art-kde (1.0.6) unstable; urgency=low
+
+  * Change default fonts from Bistream to DejaVu.
+  * Do not disable k3b splash.
+  * Simplify default konversationrc. Save logs to ~/irclogs and not deep
+    within ~/.kde/.
+  * Add defaults for amarok.
+  * Add dependency on ttf-dejavu.
+
+ -- Kel Modderman <kel@otaku42.de>  Fri, 05 Sep 2008 23:05:00 +1000
+
+sidux-art-kde (1.0.5) unstable; urgency=low
+
+  * Use the same file picker override for icedove.
+
+ -- Kel Modderman <kel@otaku42.de>  Thu, 04 Sep 2008 22:18:51 +1000
+
+sidux-art-kde (1.0.4) unstable; urgency=low
+
+  * Provide iceweasel preference override to disable the fugly GTK filepicker.
+
+ -- Kel Modderman <kel@otaku42.de>  Tue, 02 Sep 2008 01:37:42 +1000
+
+sidux-art-kde (1.0.3) unstable; urgency=low
+
+  * Provide very conservative but reliable defaults for new users
+    wallpaper and ksplash.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 01 Sep 2008 03:27:02 +1000
+
+sidux-art-kde (1.0.2) unstable; urgency=low
+
+  * Provide /etc/gtk-2.0/gtkrc and Recommend the gtk2-engines-qtcurve package.
+  * Move qt3rc to qt3 and simplify the installation of those files to /etc/.
+
+ -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 02:42:00 +1000
+
+sidux-art-kde (1.0.1) unstable; urgency=low
+
+  * Stop kmix from popping its wondow up, force it to live in the tray only
+    at startup.
+
+ -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 02:06:04 +1000
+
+sidux-art-kde (1.0.0) unstable; urgency=low
+
+  * Add myself to Uploaders.
+  * Add kde/qt default settings ala kubuntu-default-settings or fedora's
+    kde-settings.
+  * Provide new binary package, sidux-settings-kde which install global
+    default settings for appearance and applications.
+
+ -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 01:12:28 +1000
+
+sidux-art-kde (0.1.10) unstable; urgency=low
+
+  * move to Ουρέα.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Aug 2008 23:54:23 +0200
+
+sidux-art-kde (0.1.9) unstable; urgency=low
+
+  * bump standards version to 3.8.0, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Jun 2008 18:34:11 +0200
+
+sidux-art-kde (0.1.8) unstable; urgency=low
+
+  * default to erebos sidux-art-kde-theme.
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 26 May 2008 17:57:42 +1000
+
+sidux-art-kde (0.1.7) unstable; urgency=low
+
+  * switch to the new dh implementation of debhelper 7.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:52:12 +0200
+
+sidux-art-kde (0.1.6) unstable; urgency=low
+
+  * default to Νυξ' sidux-art-kde-theme.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 13:36:15 +0100
+
+sidux-art-kde (0.1.5) unstable; urgency=low
+
+  * appease lintian and write (C) as © in debian/copyright.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:00:03 +0100
+
+sidux-art-kde (0.1.4) unstable; urgency=low
+
+  * update to debhelper compat 6.
+  * add myself to Uploaders.
+  * fix KDE spelling error.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 01:28:50 +0100
+
+sidux-art-kde (0.1.3) unstable; urgency=low
+
+  * update to Standards-Version 3.7.3, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 03 Dec 2007 14:08:46 +0100
+
+sidux-art-kde (0.1.2) unstable; urgency=low
+
+  * update syntax for Vcs headers in debian/control
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 19:16:37 +0200
+
+sidux-art-kde (0.1.1) unstable; urgency=low
+
+  [ Stefan Lippers-Hollmann ]
+  * add VCS control headers.
+
+  [ Bernard Gray ]
+  * update control for eros release 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 29 Sep 2007 12:39:35 +1000
+
+sidux-art-kde (0.1.0) unstable; urgency=low
+
+  [ Bernard Gray ]
+  * update ksplash theme for gaia
+  * backport kickass kdm theme to ksplash
+  * update kdm theme for gaia
+  * update naming on source svgs
+  * update kdm screenie
+  * fix ksplash preview
+
+  [ Kel Modderman ]
+  * Make into dump virtual package.
+  * Add sidux-art-kde-gaia as an optional dependency to
+    sidux-art-kde-tartaros.
+
+ -- Kel Modderman <kel@otaku42.de>  Fri, 29 Jun 2007 22:41:50 +1000
+
+sidux-art-kde (0.0.6) unstable; urgency=low
+
+  * update kdm background
+  * update kdm preview screenshot
+  * resize kdm preview 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 07 May 2007 13:59:56 +1000
+
+sidux-art-kde (0.0.5) unstable; urgency=low
+
+  * full ksplash update to match kdm 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 06 May 2007 20:54:08 +1000
+
+sidux-art-kde (0.0.4) unstable; urgency=low
+
+  * adjust userlist bg and username/pw locations
+  * update preview image
+  * kdm license clarification
+  * fix ksplash Theme.rc so it runs 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 26 Apr 2007 07:50:59 +1000
+
+sidux-art-kde (0.0.3) unstable; urgency=low
+
+  * update kdm theme 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 19 Apr 2007 14:00:33 +1000
+
+sidux-art-kde (0.0.2) unstable; urgency=low
+
+  * remove unrequired license info
+  * fix jpg artifacts on kdm background
+  * fix Architecture in control file
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 17 Apr 2007 14:16:42 +1000
+
+sidux-art-kde (0.0.1) unstable; urgency=low
+
+  [ Bernard Gray ]
+  * Initial Release.
+  * add cathbard's sidux-debian kdm and ksplash
+  * add source for ksplash (not required for kdm)
+  * cleanup debian dir
+  * modify ksplash dir layout
+  * modify kdm dir layout
+  * kdm installer
+  * fix depends
+  * build tested/confirmed
+  * change permissions on executable jpgs
+
+  [ Stefan Lippers-Hollmann ]
+  * final cosmetic changes.
+  * don't exec pictures.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 17 Apr 2007 01:06:21 +0200
