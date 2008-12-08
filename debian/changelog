@@ -1,9 +1,8 @@
-sidux-settings-kde (1.0.13) UNRELEASED; urgency=low
+sidux-settings-kde (1.0.13) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:05:56 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:56:06 +0100
 
 sidux-settings-kde (1.0.12) unstable; urgency=low
 
