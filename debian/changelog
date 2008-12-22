@@ -1,3 +1,9 @@
+sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 22 Dec 2008 17:18:40 +0100
+
 sidux-settings-kde (1.0.14) unstable; urgency=low
 
   * config file to turn off nepomukserver added. 
