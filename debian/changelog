@@ -6,8 +6,11 @@ sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * remove kde3 specific qtcurve dependency and recommends
   * reinstate gtk qtcurve recommends so gtk doesn't look like poo
+  * begin migrating settings for apps which do not have a kde4 replacement yet
+     - kbluetoothd and k3b
+  * update nepomukserverrc to use ~/.kde instead of ~/.kde4 as config path
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Apr 2009 11:03:31 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Apr 2009 11:41:31 +1000
 
 sidux-settings-kde (1.0.14) unstable; urgency=low
 
