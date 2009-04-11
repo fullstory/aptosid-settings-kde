@@ -1,8 +1,12 @@
 sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 22 Dec 2008 17:18:40 +0100
+  [ Bernard Gray ]
+  * remove kde3 specific qtcurve dependency and recommends
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Apr 2009 10:51:03 +1000
 
 sidux-settings-kde (1.0.14) unstable; urgency=low
 

@@ -11,10 +11,8 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-kde/trunk/
 Package: sidux-settings-kde
 Depends: ${misc:Depends},
          sidux-art-kde,
-         kde-style-qtcurve
 Recommends: sidux-browser,
             ttf-dejavu,
-            gtk2-engines-qtcurve
 Architecture: all
 Description: provide default KDE settings for sidux
  Provides default settings for appearance and applications of the KDE
