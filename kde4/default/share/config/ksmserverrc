@@ -1,0 +1,16 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10d26f6d61000121385988800000031660009
+clientId2=10d26f6d61000121385989100000031660010
+count=2
+program1=kmix
+program2=krandrtray
+restartCommand1=kmix,-session,10d26f6d61000121385988800000031660009_1218269827_647116
+restartCommand2=krandrtray,-session,10d26f6d61000121385989100000031660010_1218269827_647889
+restartStyleHint1=0
+restartStyleHint2=0

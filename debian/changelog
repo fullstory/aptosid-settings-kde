@@ -10,8 +10,11 @@ sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
      - kbluetoothd and k3b
   * update nepomukserverrc to use ~/.kde instead of ~/.kde4 as config path
   * revert 23049
+  * mv any configs that exist in kde3 and kde4 to kde4 dir
+  * delete any kde3 configs that are obsoleted by kde4
+  * leave any kde3 configs for apps that don't have a kde4 version yet
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 12 Apr 2009 22:37:16 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 12 Apr 2009 23:03:13 +1000
 
 sidux-settings-kde (1.0.14) unstable; urgency=low
 
