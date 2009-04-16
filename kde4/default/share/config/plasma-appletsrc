@@ -1,0 +1,3 @@
+[AppletGlobals][plasma_applet_systemtray]
+ShowJobs=false
+ShowNotifications=false

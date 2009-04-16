@@ -14,8 +14,9 @@ sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
   * delete any kde3 configs that are obsoleted by kde4
   * leave any kde3 configs for apps that don't have a kde4 version yet
   * remove unneeded qt3 theme configs
+  * kde4 - revert to normal file transfer dialogs/notifications
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 12 Apr 2009 23:07:43 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 16 Apr 2009 11:28:30 +1000
 
 sidux-settings-kde (1.0.14) unstable; urgency=low
 
