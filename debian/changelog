@@ -1,3 +1,9 @@
+sidux-settings-kde (1.1.1) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 18 Apr 2009 18:11:51 +0200
+
 sidux-settings-kde (1.1.0) unstable; urgency=low
 
   * make konsole a litte more bearable.
