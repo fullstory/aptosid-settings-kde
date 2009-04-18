@@ -1,0 +1,5 @@
+[Applet Browser]
+used=,notifier,pager,systemtray,simplelauncher,folderview,digital-clock,tasks,lockout
+
+[PlasmaViews][2]
+panelVisibility=0
