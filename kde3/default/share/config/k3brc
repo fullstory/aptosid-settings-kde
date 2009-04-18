@@ -1,7 +1,0 @@
-[General Options]
-Allow overburning=true
-No cd eject=true
-auto rewritable erasing=true
-
-[TipOfDay]
-RunOnStart=false

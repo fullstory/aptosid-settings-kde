@@ -1,7 +1,4 @@
-sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-settings-kde (1.0.15) unstable; urgency=low
 
   [ Bernard Gray ]
   * remove kde3 specific qtcurve dependency and recommends
@@ -16,7 +13,12 @@ sidux-settings-kde (1.0.15) UNRELEASED; urgency=low
   * remove unneeded qt3 theme configs
   * kde4 - revert to normal file transfer dialogs/notifications
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 16 Apr 2009 11:28:30 +1000
+  [ Stefan Lippers-Hollmann ]
+  * drop kde3 preconfig.
+  * drop qtcurve dependencies for the time being.
+  * temporarily drop sidux-art-* dependencies.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 18 Apr 2009 17:19:14 +0200
 
 sidux-settings-kde (1.0.14) unstable; urgency=low
 
