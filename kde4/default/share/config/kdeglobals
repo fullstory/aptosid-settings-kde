@@ -1,0 +1,22 @@
+[General]
+XftAntialias=true
+XftHintStyle=hintfull
+XftSubPixel=none
+desktopFont=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
+font=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Bitstream Vera Sans,8,-1,5,50,0,0,0,0,0
+taskbarFont=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
+toolBarFont=Bitstream Vera Sans,8,-1,5,50,0,0,0,0,0
+
+[PreviewSettings]
+UseFileThumbnails=true
+
+[Toolbar style]
+ToolButtonStyle=TextBesideIcon
+
+[Colors:Window]
+BackgroundNormal=242,241,241
+
+[KDE]
+SingleClick=false
