@@ -9,8 +9,9 @@ Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-kde/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-kde/trunk/
 
 Package: sidux-settings-kde
-#Depends: ${misc:Depends},
-#         sidux-art-kde,
+Depends: ${misc:Depends},
+         sidux-art-kde,
+         plasma-desktopthemes-artwork
 Recommends: sidux-browser,
             ttf-dejavu
 Architecture: all

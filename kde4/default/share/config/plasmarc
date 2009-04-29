@@ -3,3 +3,6 @@ used=,notifier,pager,systemtray,simplelauncher,folderview,digital-clock,tasks,lo
 
 [PlasmaViews][2]
 panelVisibility=0
+
+[Theme]
+name=Elegance
