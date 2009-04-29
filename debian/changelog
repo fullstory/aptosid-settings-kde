@@ -1,9 +1,5 @@
-sidux-settings-kde (1.1.3) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * set default plasma theme to 'Elegance' 
     - removes the blue panel in use by default
     - Elegance theme provided by plasma-desktopthemes-artwork
