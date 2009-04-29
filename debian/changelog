@@ -1,8 +1,9 @@
-sidux-settings-kde (1.1.4) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * reinstantiate alt-f1 shortcut.
+  * remove drop shadows from fonts.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 01:06:48 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 01:50:26 +0200
 
 sidux-settings-kde (1.1.3) unstable; urgency=low
 

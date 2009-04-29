@@ -4,6 +4,7 @@ rows=1
 [Containments][11]
 activity=
 desktop=0
+drawShadows=false
 formfactor=0
 immutability=1
 location=0
