@@ -1,3 +1,9 @@
+sidux-settings-kde (1.1.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 02:28:39 +0200
+
 sidux-settings-kde (1.1.5) unstable; urgency=low
 
   * decrease default icon size to 32.
