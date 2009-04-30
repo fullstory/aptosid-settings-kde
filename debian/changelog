@@ -1,8 +1,8 @@
-sidux-settings-kde (1.1.6) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * try to disable desktop effects.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 02:28:39 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 22:09:12 +0200
 
 sidux-settings-kde (1.1.5) unstable; urgency=low
 
