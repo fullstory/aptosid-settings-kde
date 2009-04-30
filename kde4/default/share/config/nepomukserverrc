@@ -3,9 +3,4 @@ Configured repositories=main
 Start Nepomuk=false
 
 [Service-nepomukstrigiservice]
-autostart=true
-
-[main Settings]
-Storage Dir[$e]=$HOME/.kde/share/apps/nepomuk/repository/main/
-Used Soprano Backend=redland
-rebuilt index for type indexing=true
+autostart=false

@@ -20,3 +20,6 @@ BackgroundNormal=242,241,241
 
 [KDE]
 SingleClick=false
+
+[DesktopIcons]
+Size=32
