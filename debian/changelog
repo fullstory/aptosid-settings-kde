@@ -1,8 +1,12 @@
 sidux-settings-kde (1.1.7) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Apr 2009 22:10:20 +0200
+  [ Bernard Gray ]
+  * attempt to apply sidux.colors theme
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Fri, 22 May 2009 21:30:10 +1000
 
 sidux-settings-kde (1.1.6) unstable; urgency=low
 
