@@ -1,9 +1,5 @@
-sidux-settings-kde (1.1.7) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * attempt to apply sidux.colors theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Fri, 22 May 2009 21:30:10 +1000
