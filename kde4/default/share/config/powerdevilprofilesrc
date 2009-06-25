@@ -1,0 +1,19 @@
+[Aggressive Powersave]
+IdleAction=0
+powerButtonAction=8
+
+[Performance]
+IdleAction=0
+powerButtonAction=8
+
+[Powersave]
+IdleAction=0
+powerButtonAction=8
+
+[Presentation]
+IdleAction=0
+powerButtonAction=8
+
+[Xtreme Powersave]
+IdleAction=0
+powerButtonAction=8
