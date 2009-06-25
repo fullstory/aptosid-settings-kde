@@ -1,12 +1,12 @@
 sidux-settings-kde (1.1.9) unstable; urgency=low
 
-  * NOT RELEASED YET
   * configure toolbars for dolphin:
     - up
     - refresh
     - home
+  * remove non-working viewmode settings.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Jun 2009 23:37:25 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Jun 2009 23:59:47 +0200
 
 sidux-settings-kde (1.1.8) unstable; urgency=low
 
