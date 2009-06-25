@@ -1,8 +1,12 @@
 sidux-settings-kde (1.1.8) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add preconfiguration for dolphin:
+    - don't crap every visited directory with Thumbs.db^w.directory files.
+    - use a detailed file view.
+    - show the location bar, with full path names and make it editable.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 24 May 2009 03:34:09 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Jun 2009 23:04:54 +0200
 
 sidux-settings-kde (1.1.7) unstable; urgency=low
 
