@@ -1,3 +1,9 @@
+sidux-settings-kde (1.1.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 20 Jul 2009 19:34:00 +0200
+
 sidux-settings-kde (1.1.11) unstable; urgency=low
 
   * revert to single click mouse behaviour
@@ -112,7 +118,7 @@ sidux-settings-kde (1.0.14) unstable; urgency=low
 
   * config file to turn off nepomukserver added. 
 
- -- Andreas Weber <webera@anddesktop>  Mon, 22 Dec 2008 16:54:14 +0100
+ -- Andreas Weber <andreas@it-weber.com>  Mon, 22 Dec 2008 16:54:14 +0100
 
 sidux-settings-kde (1.0.13) unstable; urgency=low
 
