@@ -1,9 +1,5 @@
-sidux-settings-kde (1.1.11) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.11) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * revert to single click mouse behaviour
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 20 Jul 2009 10:19:11 +1000
