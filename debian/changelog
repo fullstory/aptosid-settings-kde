@@ -1,8 +1,12 @@
 sidux-settings-kde (1.1.12) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 20 Jul 2009 19:34:00 +0200
+  [ Bernard Gray ]
+  * remove lock/logout applet from panel, did not split side by side on low height
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 13 Oct 2009 09:46:34 +1100
 
 sidux-settings-kde (1.1.11) unstable; urgency=low
 

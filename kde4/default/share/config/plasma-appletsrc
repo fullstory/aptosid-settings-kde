@@ -38,12 +38,6 @@ immutability=1
 plugin=simplelauncher
 zvalue=0
 
-[Containments][3][Applets][12]
-geometry=5814,1,44,22
-immutability=1
-plugin=lockout
-zvalue=0
-
 [Containments][3][Applets][13]
 geometry=26,1,22,22
 immutability=1
