@@ -1,3 +1,10 @@
+sidux-settings-kde (1.1.13) unstable; urgency=low
+
+  * fix debian/copyright to make lintian happy and to reflect the actual 
+    copyright status.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 13 Oct 2009 03:46:17 +0200
+
 sidux-settings-kde (1.1.12) unstable; urgency=low
 
   [ Bernard Gray ]
