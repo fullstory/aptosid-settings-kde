@@ -7,8 +7,9 @@ sidux-settings-kde (1.1.12) UNRELEASED; urgency=low
   * remove lock/logout applet from panel, did not split side by side on low height
   * increase panel height to 32px for preview to gauge user reaction
   * revert 24780 panel height change - a) it was broken b) pending further discussion
+  * reinstate gtk2-engines-qtcurve to fix clunky looking gtk apps (eg iceweasel)
 
- -- Bernard Gray <bernard.gray@gmail.com>  Tue, 13 Oct 2009 11:46:34 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 13 Oct 2009 11:49:45 +1100
 
 sidux-settings-kde (1.1.11) unstable; urgency=low
 
