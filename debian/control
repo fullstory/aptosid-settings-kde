@@ -2,19 +2,20 @@ Source: sidux-settings-kde
 Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Kel Modderman <kel@otaku42.de>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
+ Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.1
+Standards-Version: 3.8.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-kde/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-kde/trunk/
 
 Package: sidux-settings-kde
 Depends: ${misc:Depends},
-         sidux-art-kde,
-         plasma-desktopthemes-artwork,
-         gtk2-engines-qtcurve
+ sidux-art-kde,
+ plasma-desktopthemes-artwork,
+ gtk2-engines-qtcurve
 Recommends: sidux-browser,
-            ttf-dejavu
+ ttf-dejavu
 Architecture: all
 Description: provide default KDE settings for sidux
  Provides default settings for appearance and applications of the KDE
