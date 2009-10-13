@@ -118,5 +118,5 @@ DialogHeight=269
 DialogWidth=250
 
 [Containments][3][Configuration]
-maximumSize=6024,32
-minimumSize=6024,32
+maximumSize=6024,23
+minimumSize=6024,23
