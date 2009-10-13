@@ -1,3 +1,9 @@
+sidux-settings-kde (1.1.14) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 13 Oct 2009 03:47:08 +0200
+
 sidux-settings-kde (1.1.13) unstable; urgency=low
 
   * fix debian/copyright to make lintian happy and to reflect the actual 
