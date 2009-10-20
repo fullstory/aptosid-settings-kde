@@ -13,7 +13,6 @@ Package: sidux-settings-kde
 Depends: ${misc:Depends},
  sidux-art-kde,
  plasma-desktopthemes-artwork,
- gtk2-engines-qtcurve
 Recommends: sidux-browser,
  ttf-dejavu
 Architecture: all
