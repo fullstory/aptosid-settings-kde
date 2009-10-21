@@ -1,3 +1,9 @@
+sidux-settings-kde (1.1.15) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 Oct 2009 14:21:31 +0200
+
 sidux-settings-kde (1.1.14) unstable; urgency=low
 
   * remove gtk-qtcurve due to general bugginess (also affecting our install-gui)
