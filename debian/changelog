@@ -1,8 +1,9 @@
-sidux-settings-kde (1.1.15) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.15) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * update standards version to 3.8.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 Oct 2009 14:21:31 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:27:35 +0200
 
 sidux-settings-kde (1.1.14) unstable; urgency=low
 
