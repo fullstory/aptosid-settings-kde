@@ -17,5 +17,9 @@ Recommends: sidux-browser,
  ttf-dejavu
 Architecture: all
 Description: provide default KDE settings for sidux
- Provides default settings for appearance and applications of the KDE
- desktop in sidux.
+ Provides default settings for appearance and applications of the K Desktop
+ Environment in sidux.
+ .
+ This overrides KDE's defaults used for new users, all settings remain
+ configurable by the local user and don't override already existing user
+ profiles.

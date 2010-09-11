@@ -1,9 +1,9 @@
-sidux-settings-kde (1.1.16) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.16) unstable; urgency=low
 
-  * NOT RELEASED YET
   * bump standards version to 3.9.1, no changes necessary.
+  * elaborate long description a bit further, to make lintian happy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 01:40:48 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 15:51:11 +0200
 
 sidux-settings-kde (1.1.15) unstable; urgency=low
 
