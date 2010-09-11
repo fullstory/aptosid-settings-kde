@@ -1,8 +1,8 @@
-sidux-settings-kde (1.1.17) UNRELEASED; urgency=low
+sidux-settings-kde (1.1.17) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to compat level 8.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 15:51:57 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:25:08 +0200
 
 sidux-settings-kde (1.1.16) unstable; urgency=low
 
