@@ -1,5 +1,5 @@
 kde-user-profile etc/
 kde4rc/*rc       etc/
-kde4/*           usr/share/sidux-settings-kde/kde4/
+kde4/*           usr/share/aptosid-settings-kde/kde4/
 gtk-2.0          etc/
-mozilla/*.js     usr/share/sidux-settings-kde/
+mozilla/*.js     usr/share/aptosid-settings-kde/

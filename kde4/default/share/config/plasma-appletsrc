@@ -60,7 +60,7 @@ plugin=icon
 zvalue=0
 
 [Containments][3][Applets][14][Configuration]
-Url=file:///usr/share/applications/sidux/sidux-browser.desktop
+Url=file:///usr/share/applications/aptosid/xdg-browser-launcher.desktop
 
 [Containments][3][Applets][15]
 geometry=52,1,22,22

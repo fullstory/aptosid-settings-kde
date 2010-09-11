@@ -1,4 +1,4 @@
-Source: sidux-settings-kde
+Source: aptosid-settings-kde
 Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
@@ -6,20 +6,36 @@ Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
  Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 7.9.3)
 Standards-Version: 3.9.1
-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-kde/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-kde/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-settings-kde/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-settings-kde/trunk/
 
-Package: sidux-settings-kde
+Package: aptosid-settings-kde
 Depends: ${misc:Depends},
- sidux-art-kde,
+ aptosid-art-kde,
  plasma-desktopthemes-artwork,
-Recommends: sidux-browser,
+Recommends: xdg-browser-launcher,
  ttf-dejavu
+Breaks: sidux-settings-kde (<< 1.2)
+Replaces: sidux-settings-kde (<< 1.2)
 Architecture: all
-Description: provide default KDE settings for sidux
+Description: provide default KDE settings for aptosid
  Provides default settings for appearance and applications of the K Desktop
- Environment in sidux.
+ Environment in aptosid.
  .
  This overrides KDE's defaults used for new users, all settings remain
  configurable by the local user and don't override already existing user
  profiles.
+
+Package: sidux-settings-kde
+Depends: ${misc:Depends},
+ aptosid-settings-kde
+Architecture: all
+Description: provide default KDE settings for aptosid
+ Provides default settings for appearance and applications of the K Desktop
+ Environment in aptosid.
+ .
+ This overrides KDE's defaults used for new users, all settings remain
+ configurable by the local user and don't override already existing user
+ profiles.
+ .
+ transitional metapackage to pull in aptosid-settings-kde

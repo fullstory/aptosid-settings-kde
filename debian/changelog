@@ -1,8 +1,8 @@
-sidux-settings-kde (1.1.18) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.0) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to sidux.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:25:34 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Aug 2010 22:21:22 +0200
 
 sidux-settings-kde (1.1.17) unstable; urgency=low
 
