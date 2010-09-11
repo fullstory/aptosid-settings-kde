@@ -5,7 +5,7 @@ Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
  Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-kde/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-kde/trunk/
 
