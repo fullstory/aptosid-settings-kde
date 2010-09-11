@@ -26,7 +26,7 @@ sidux-settings-kde (1.1.14) unstable; urgency=low
 
 sidux-settings-kde (1.1.13) unstable; urgency=low
 
-  * fix debian/copyright to make lintian happy and to reflect the actual 
+  * fix debian/copyright to make lintian happy and to reflect the actual
     copyright status.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 13 Oct 2009 03:46:17 +0200
@@ -34,7 +34,7 @@ sidux-settings-kde (1.1.13) unstable; urgency=low
 sidux-settings-kde (1.1.12) unstable; urgency=low
 
   [ Bernard Gray ]
-  * reinstate gtk2-engines-qtcurve to fix clunky looking gtk apps 
+  * reinstate gtk2-engines-qtcurve to fix clunky looking gtk apps
     (eg iceweasel).
 
   [ Stefan Lippers-Hollmann ]
@@ -72,7 +72,7 @@ sidux-settings-kde (1.1.8) unstable; urgency=low
     - use a detailed file view.
     - show the location bar, with full path names and make it editable.
   * add preconfiguration for powerdevil:
-    - never ever suspend, just because the system is idle - notebooks will 
+    - never ever suspend, just because the system is idle - notebooks will
       still suspend on battery critical.
     - always shutdown when hitting shutdown.
 
@@ -105,7 +105,7 @@ sidux-settings-kde (1.1.4) unstable; urgency=low
 
 sidux-settings-kde (1.1.3) unstable; urgency=low
 
-  * set default plasma theme to 'Elegance' 
+  * set default plasma theme to 'Elegance'
     - removes the blue panel in use by default
     - Elegance theme provided by plasma-desktopthemes-artwork
 
@@ -155,7 +155,7 @@ sidux-settings-kde (1.1.0) unstable; urgency=low
 
 sidux-settings-kde (1.0.14) unstable; urgency=low
 
-  * config file to turn off nepomukserver added. 
+  * config file to turn off nepomukserver added.
 
  -- Andreas Weber <andreas@it-weber.com>  Mon, 22 Dec 2008 16:54:14 +0100
 
@@ -329,7 +329,7 @@ sidux-art-kde (0.1.1) unstable; urgency=low
   * add VCS control headers.
 
   [ Bernard Gray ]
-  * update control for eros release 
+  * update control for eros release
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sat, 29 Sep 2007 12:39:35 +1000
 
@@ -354,13 +354,13 @@ sidux-art-kde (0.0.6) unstable; urgency=low
 
   * update kdm background
   * update kdm preview screenshot
-  * resize kdm preview 
+  * resize kdm preview
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 07 May 2007 13:59:56 +1000
 
 sidux-art-kde (0.0.5) unstable; urgency=low
 
-  * full ksplash update to match kdm 
+  * full ksplash update to match kdm
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sun, 06 May 2007 20:54:08 +1000
 
@@ -369,13 +369,13 @@ sidux-art-kde (0.0.4) unstable; urgency=low
   * adjust userlist bg and username/pw locations
   * update preview image
   * kdm license clarification
-  * fix ksplash Theme.rc so it runs 
+  * fix ksplash Theme.rc so it runs
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 26 Apr 2007 07:50:59 +1000
 
 sidux-art-kde (0.0.3) unstable; urgency=low
 
-  * update kdm theme 
+  * update kdm theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 19 Apr 2007 14:00:33 +1000
 
