@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=GreenOnBlack
+ColorScheme=BlackOnWhite
 
 [General]
 Icon=utilities-terminal
