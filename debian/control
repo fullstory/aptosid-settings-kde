@@ -15,8 +15,6 @@ Depends: ${misc:Depends},
  plasma-desktopthemes-artwork,
 Recommends: xdg-browser-launcher,
  ttf-dejavu
-Breaks: sidux-settings-kde (<< 1.2)
-Replaces: sidux-settings-kde (<< 1.2)
 Architecture: all
 Description: provide default KDE settings for aptosid
  Provides default settings for appearance and applications of the K Desktop
@@ -25,17 +23,3 @@ Description: provide default KDE settings for aptosid
  This overrides KDE's defaults used for new users, all settings remain
  configurable by the local user and don't override already existing user
  profiles.
-
-Package: sidux-settings-kde
-Depends: ${misc:Depends},
- aptosid-settings-kde
-Architecture: all
-Description: provide default KDE settings for aptosid
- Provides default settings for appearance and applications of the K Desktop
- Environment in aptosid.
- .
- This overrides KDE's defaults used for new users, all settings remain
- configurable by the local user and don't override already existing user
- profiles.
- .
- transitional metapackage to pull in aptosid-settings-kde
