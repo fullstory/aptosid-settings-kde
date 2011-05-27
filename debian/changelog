@@ -1,10 +1,6 @@
-aptosid-settings-kde (1.2.3) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
-  * changes due to kde 4.6
+  * changes due to kde 4.6.
 
  -- Joaquim Boura <x-un-i@berlios.de>  Sat, 28 May 2011 00:12:59 +0200
 
