@@ -107,13 +107,13 @@ Url=file:///usr/share/applications/kde4/dolphin.desktop
 Order=2
 
 [Containments][3][Applets][5]
-geometry=710,2,21,21
-immutability=1
-plugin=notifier
-zvalue=0
+geometry[$d]
+immutability[$d]
+plugin[$d]
+zvalue[$d]
 
 [Containments][3][Applets][5][LayoutInformation]
-Order=6
+Order[$d]
 
 [Containments][3][Applets][6]
 geometry=100,2,94,21
@@ -183,7 +183,7 @@ DialogWidth[$d]
 Systemtray-Klipper-8=Ctrl+Alt+V
 
 [Containments][3][Applets][8][LayoutInformation]
-Order=8
+Order=7
 
 [Containments][3][Applets][8][PopupApplet]
 DialogHeight=20
@@ -199,9 +199,9 @@ zvalue=0
 extenderIconName=view-pim-calendar
 extenderItemName=calendar
 extenderItemPosition=0
-extenderTitle=Kalender
+extenderTitle=Calendar
 isCollapsed=false
-sourceAppletId=9
+sourceAppletId=8
 sourceAppletPluginName=digital-clock
 
 [Containments][3][Applets][9][Configuration][PopupApplet]
