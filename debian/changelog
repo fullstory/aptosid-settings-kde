@@ -1,10 +1,6 @@
-aptosid-settings-kde (1.2.4) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
-  * removed duplicated notifier
+  * removed duplicated notifier.
 
  -- Joaquim Boura <x-un-i@berlios.de>  Sat, 28 May 2011 09:46:21 +0200
 
