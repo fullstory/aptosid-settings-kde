@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 28 May 2011 14:30:52 +0200
+
 aptosid-settings-kde (1.2.4) unstable; urgency=low
 
   * removed duplicated notifier.
