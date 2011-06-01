@@ -62,13 +62,13 @@ zvalue=2
 Order=0
 
 [Containments][3][Applets][12]
-geometry=735,2,42,21
-immutability=1
-plugin=lockout
-zvalue=0
+geometry[$d]
+immutability[$d]
+plugin[$d]
+zvalue[$d]
 
 [Containments][3][Applets][12][LayoutInformation]
-Order=7
+Order[$d]
 
 [Containments][3][Applets][13]
 geometry=25,2,21,21

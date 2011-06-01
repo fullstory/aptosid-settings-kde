@@ -1,8 +1,9 @@
-aptosid-settings-kde (1.2.5) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * remove lockout applet, given that KDE 4.6.x doesn't appear to allow right
+    alignment or dynamic screen resize anymore.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 28 May 2011 14:30:52 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 01 Jun 2011 23:22:40 +0200
 
 aptosid-settings-kde (1.2.4) unstable; urgency=low
 
