@@ -1,5 +1,5 @@
 [Applet Browser]
-used=,notifier,pager,systemtray,simplelauncher,folderview,digital-clock,tasks,lockout
+used=,notifier,pager,systemtray,simplelauncher,folderview,digital-clock,tasks
 
 [PlasmaViews][2]
 panelVisibility=0
