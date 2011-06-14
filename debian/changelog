@@ -1,8 +1,8 @@
-aptosid-settings-kde (1.2.7) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * set DrawTitleOutline=true, to distinguish active from inactive windows.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 14 Jun 2011 02:50:51 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 14 Jun 2011 03:17:33 +0200
 
 aptosid-settings-kde (1.2.6) unstable; urgency=low
 
