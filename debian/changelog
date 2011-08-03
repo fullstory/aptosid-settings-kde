@@ -5,8 +5,9 @@ aptosid-settings-kde (1.2.8) UNRELEASED; urgency=low
 
   [ Rick Battle ]
   * updated plasmarc to use the Air theme since Elegance is nolonger available
+  * added shadow information to oxygenrc
 
- -- Rick Battle <detaos@sindy>  Wed, 03 Aug 2011 14:25:23 -0400
+ -- Rick Battle <rick.battle@solmera.com>  Wed, 03 Aug 2011 14:32:14 -0400
 
 aptosid-settings-kde (1.2.7) unstable; urgency=low
 
