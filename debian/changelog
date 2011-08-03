@@ -1,8 +1,12 @@
 aptosid-settings-kde (1.2.8) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 14 Jun 2011 03:17:53 +0200
+  [ Rick Battle ]
+  * updated plasmarc to use the Air theme since Elegance is nolonger available
+
+ -- Rick Battle <detaos@sindy>  Wed, 03 Aug 2011 14:25:23 -0400
 
 aptosid-settings-kde (1.2.7) unstable; urgency=low
 
