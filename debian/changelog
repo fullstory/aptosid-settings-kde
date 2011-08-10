@@ -6,8 +6,9 @@ aptosid-settings-kde (1.2.8) UNRELEASED; urgency=low
   [ Rick Battle ]
   * updated plasmarc to use the Air theme since Elegance is nolonger available
   * added shadow information to oxygenrc
+  * added kdmrc to set anti-aliasing to true and allow the user to set their face icon
 
- -- Rick Battle <rick.battle@solmera.com>  Wed, 03 Aug 2011 14:32:14 -0400
+ -- Rick Battle <rick.battle@solmera.com>  Wed, 10 Aug 2011 00:55:37 -0400
 
 aptosid-settings-kde (1.2.7) unstable; urgency=low
 
