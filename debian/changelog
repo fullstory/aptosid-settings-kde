@@ -1,8 +1,12 @@
 aptosid-settings-kde (1.2.9) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 10 Aug 2011 21:42:42 +0200
+  [ Rick Battle ]
+  * s/imera/ponos/ && set colour behind desktop to black
+
+ -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 19:13:41 -0700
 
 aptosid-settings-kde (1.2.8) unstable; urgency=low
 
