@@ -6,8 +6,9 @@ aptosid-settings-kde (1.2.9) UNRELEASED; urgency=low
   [ Rick Battle ]
   * s/imera/ponos/ && set colour behind desktop to black
   * removed all colour information from kdeglobals 
+  * added ColorScheme to kdeglobals to tell it to use aptosid-ponos.colors
 
- -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 19:24:24 -0700
+ -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 19:47:21 -0700
 
 aptosid-settings-kde (1.2.8) unstable; urgency=low
 

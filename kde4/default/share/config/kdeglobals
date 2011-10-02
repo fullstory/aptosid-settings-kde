@@ -8,6 +8,7 @@ Size=32
 XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=none
+ColorScheme=aptosid-ponos.colors
 desktopFont=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
 font=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
 menuFont=Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0
