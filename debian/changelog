@@ -1,10 +1,7 @@
-aptosid-settings-kde (1.2.10) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.10) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Rick Battle ]
-  * finally removed that green I've been hunting in a non-destructive way this time
+  * finally removed that green I've been hunting in a non-destructive way this
+    time.
 
  -- Rick Battle <rick.battle@solmera.com>  Sun, 02 Oct 2011 11:57:36 -0700
 
