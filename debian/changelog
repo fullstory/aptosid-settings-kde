@@ -1,14 +1,9 @@
-aptosid-settings-kde (1.2.9) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.9) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+  * revert destructive changes from trunk.
+  * fall back to safe wallpaper default.
 
-  [ Rick Battle ]
-  * s/imera/ponos/ && set colour behind desktop to black
-  * removed all colour information from kdeglobals 
-  * added ColorScheme to kdeglobals to tell it to use aptosid-ponos.colors
-
- -- Rick Battle <rick.battle@solmera.com>  Sat, 01 Oct 2011 19:47:21 -0700
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 02 Oct 2011 16:06:40 +0200
 
 aptosid-settings-kde (1.2.8) unstable; urgency=low
 

@@ -31,8 +31,8 @@ zvalue=0
 slideTimer=600
 slidepaths=/usr/share/wallpapers/
 userswallpapers=
-wallpaper=/usr/share/wallpapers/aptosid-ponos
-wallpapercolor=0,0,0
+wallpaper=/usr/share/wallpapers/Horos
+wallpapercolor=56,111,150
 wallpaperposition=0
 
 [Containments][3]
