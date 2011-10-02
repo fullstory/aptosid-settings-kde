@@ -1,8 +1,12 @@
 aptosid-settings-kde (1.2.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 02 Oct 2011 16:07:01 +0200
+  [ Rick Battle ]
+  * finally removed that green I've been hunting in a non-destructive way this time
+
+ -- Rick Battle <rick.battle@solmera.com>  Sun, 02 Oct 2011 11:57:36 -0700
 
 aptosid-settings-kde (1.2.9) unstable; urgency=low
 
