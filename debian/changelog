@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.11) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 03 Oct 2011 01:36:45 +0200
+
 aptosid-settings-kde (1.2.10) unstable; urgency=low
 
   * finally removed that green I've been hunting in a non-destructive way this
