@@ -15,7 +15,7 @@ Color=112,111,110
 ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
-ContrastEffect=2
+ContrastEffect=-2
 Enable=false
 IntensityAmount=0
 IntensityEffect=0
@@ -68,7 +68,7 @@ BackgroundNormal=255,255,255
 DecorationFocus=125,16,23
 DecorationHover=173,166,167
 ForegroundActive=255,128,224
-ForegroundInactive=136,136,136
+ForegroundInactive=136,135,134
 ForegroundLink=0,87,174
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
@@ -82,7 +82,7 @@ BackgroundNormal=224,223,222
 DecorationFocus=125,16,23
 DecorationHover=173,166,167
 ForegroundActive=255,128,224
-ForegroundInactive=136,136,136
+ForegroundInactive=136,135,134
 ForegroundLink=0,87,174
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
@@ -114,10 +114,10 @@ UseFileThumbnails=true
 ToolButtonStyle=TextBesideIcon
 
 [WM]
-activeBackground=102,0,0
+activeBackground=7,10,7
 activeForeground=255,255,255
-inactiveBackground=224,224,224
-inactiveForeground=20,0,0
+inactiveBackground=224,223,222
+inactiveForeground=20,19,18
 
 [Windows]
 XineramaEnabled=
