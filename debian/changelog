@@ -1,8 +1,12 @@
 aptosid-settings-kde (1.2.12) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 16 Jan 2012 00:26:09 +0100
+  [ Rick Battle ]
+  * changed to match aptosid-ponos colour scheme
+
+ -- Rick Battle <rick.battle@solmera.com>  Fri, 20 Jan 2012 23:50:48 -0800
 
 aptosid-settings-kde (1.2.11) unstable; urgency=low
 
