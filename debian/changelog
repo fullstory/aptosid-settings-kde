@@ -1,10 +1,6 @@
-aptosid-settings-kde (1.2.13) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.13) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Niall Walsh ]
-  * set addShowActivitiesManagerPlasmoid to performed in plasma-desktoprc
+  * set addShowActivitiesManagerPlasmoid to performed in plasma-desktoprc.
 
  -- Niall Walsh <niallwalsh@users.berlios.de>  Tue, 07 Aug 2012 18:21:51 +0100
 
