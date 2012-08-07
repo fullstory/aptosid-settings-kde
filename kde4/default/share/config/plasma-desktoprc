@@ -12,7 +12,7 @@ offset=0
 lastsize=1024
 
 [Updates]
-performed=/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js
+performed=/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js
 
 [ViewIds]
 11=2

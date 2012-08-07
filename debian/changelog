@@ -1,8 +1,12 @@
 aptosid-settings-kde (1.2.13) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:42:23 +0100
+  [ Niall Walsh ]
+  * set addShowActivitiesManagerPlasmoid to performed in plasma-desktoprc
+
+ -- Niall Walsh <niallwalsh@users.berlios.de>  Tue, 07 Aug 2012 18:21:51 +0100
 
 aptosid-settings-kde (1.2.12) unstable; urgency=low
 
