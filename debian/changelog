@@ -1,6 +1,10 @@
 aptosid-settings-kde (1.2.14) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Joaquim Boura ]
+  * added four desktops to the panel default settings
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Aug 2012 20:58:14 +0200
 
