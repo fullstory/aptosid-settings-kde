@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.15) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 Nov 2012 05:44:46 +0100
+
 aptosid-settings-kde (1.2.14) unstable; urgency=low
 
   * added four desktops to the panel default settings
