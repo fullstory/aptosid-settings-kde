@@ -1,8 +1,8 @@
-aptosid-settings-kde (1.2.15) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.15) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 Nov 2012 05:44:46 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Jan 2013 00:42:31 +0100
 
 aptosid-settings-kde (1.2.14) unstable; urgency=low
 
