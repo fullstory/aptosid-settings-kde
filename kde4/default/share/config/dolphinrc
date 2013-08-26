@@ -2,3 +2,11 @@
 EditableUrl=true
 GlobalViewProps=true
 ShowFullPath=true
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=TextUnderIcon
+
+[Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=TextUnderIcon
