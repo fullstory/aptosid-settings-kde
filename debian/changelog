@@ -1,8 +1,20 @@
-aptosid-settings-kde (1.2.16) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.16) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update KDE preseeding:
+    - update dolphinui.rc, add toolbar buttons: up, reload, home.
+    - configure dolphin view_properties, switch to compact mode.
+    - adapt dolphinrc to use small icons and place text below them.
+    - remove pre-generated GUID and nuke activity settings.
+    - global: drop unnecessary $Version and update_info stanzas, retain nuking
+      ofaddShowActivitiesManagerPlasmoid.js.
+    - kdeglobals: don't preseed default colour setting, enable double-click.
+    - oxygenrc: don't preseed default shadow settings.
+    - plasma-appletsrc: drop preseeding.
+    - fix folderview and wallpaper preseeding for KDE 3.10+.
+    - plasma-desktop-appletsrc: switch un-preseeded wallpaper default from
+      Horo to Elarun for KDE 3.10+.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Jan 2013 00:43:06 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Aug 2013 21:20:37 +0200
 
 aptosid-settings-kde (1.2.15) unstable; urgency=low
 

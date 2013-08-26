@@ -1,6 +1,3 @@
-[$Version]
-update_info=plasma_popupapplet_fix_groups.upd:PlasmaPopupAppletFixGroups1
-
 [ActionPlugins]
 MidButton;NoModifier=paste
 RightButton;NoModifier=contextmenu
@@ -12,7 +9,7 @@ rows=1
 [Containments][11]
 ActionPluginsSource=Global
 activity=New Activity
-activityId=49a76c96-c3eb-47af-8f95-bd293562f7d4
+activityId=
 desktop=-1
 drawShadows=false
 formfactor=0
@@ -31,7 +28,7 @@ zvalue=0
 slideTimer=600
 slidepaths=/usr/share/wallpapers/
 userswallpapers=
-wallpaper=/usr/share/wallpapers/Horos
+wallpaper=/usr/share/wallpapers/Elarun/
 wallpapercolor=56,111,150
 wallpaperposition=0
 
