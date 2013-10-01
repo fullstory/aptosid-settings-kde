@@ -198,6 +198,11 @@ immutability=1
 plugin=digital-clock
 zvalue=0
 
+[Containments][3][Applets][9][Configuration]
+plainClockColor=0,0,0
+plainClockDrawShadow=false
+useCustomColor=true
+
 [Containments][3][Applets][9][Configuration][ExtenderItems][1]
 extenderIconName=view-pim-calendar
 extenderItemName=calendar
