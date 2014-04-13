@@ -1,8 +1,9 @@
-aptosid-settings-kde (1.2.18) UNRELEASED; urgency=low
+aptosid-settings-kde (1.2.18) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.5, no changes necessary.
+  * debian/control: switch Vcs tags to github.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 01 Oct 2013 03:27:39 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 13 Apr 2014 20:09:08 +0200
 
 aptosid-settings-kde (1.2.17) unstable; urgency=low
 

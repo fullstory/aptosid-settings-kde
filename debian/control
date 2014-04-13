@@ -5,9 +5,9 @@ Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Uploaders: Kel Modderman <kel@otaku42.de>,
  Joaquim Boura <x-un-i@berlios.de>
 Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.4
-Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-settings-kde/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-settings-kde/trunk/
+Standards-Version: 3.9.5
+Vcs-git: git://github.com/fullstory/aptosid-settings-kde.git
+Vcs-Browser: https://github.com/fullstory/aptosid-settings-kde
 
 Package: aptosid-settings-kde
 Depends: ${misc:Depends},
