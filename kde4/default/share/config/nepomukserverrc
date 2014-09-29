@@ -1,6 +1,0 @@
-[Basic Settings]
-Configured repositories=main
-Start Nepomuk=false
-
-[Service-nepomukstrigiservice]
-autostart=false
