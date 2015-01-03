@@ -1,9 +1,9 @@
-aptosid-settings-kde (1.2.20) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.20) unstable; urgency=medium
 
-  * NOT RELEASED YET
   * bump standards version to 3.9.6, no changes necessary.
+  * convert to machine readable copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 29 Sep 2014 07:02:04 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 03 Jan 2015 18:20:32 +0100
 
 aptosid-settings-kde (1.2.19) unstable; urgency=medium
 
