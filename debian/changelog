@@ -1,6 +1,7 @@
 aptosid-settings-kde (1.2.20) UNRELEASED; urgency=medium
 
   * NOT RELEASED YET
+  * bump standards version to 3.9.6, no changes necessary.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 29 Sep 2014 07:02:04 +0200
 
