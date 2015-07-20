@@ -11,7 +11,7 @@ Vcs-Browser: https://github.com/fullstory/aptosid-settings-kde
 Package: aptosid-settings-kde
 Depends: ${misc:Depends},
  aptosid-art-kde,
- plasma-desktopthemes-artwork,
+ plasma-framework
 Recommends: xdg-browser-launcher,
  ttf-dejavu
 Architecture: all
