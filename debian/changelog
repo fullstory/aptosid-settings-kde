@@ -1,8 +1,8 @@
-aptosid-settings-kde (1.2.22) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.22) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * s/iceweasel/firefox/.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 20 Jul 2015 22:26:04 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 11 Mar 2016 21:11:48 +0100
 
 aptosid-settings-kde (1.2.21) unstable; urgency=medium
 
