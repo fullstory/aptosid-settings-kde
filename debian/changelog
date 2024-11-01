@@ -1,13 +1,16 @@
-aptosid-settings-kde (1.2.23+nmu1) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.24) unstable; urgency=medium
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+  * Set kscreenlockerrc.
+
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 01 Nov 2024 20:39:52 +1000
+
+aptosid-settings-kde (1.2.23) unstable; urgency=medium
 
   [ Kel Modderman ]
   * Purge old configuration, and install new defaults to /etc/xdg.
   * Set default wallpaper.
 
- -- Kel Modderman <kelvmod@gmail.com>  Fri, 01 Nov 2024 20:19:18 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 01 Nov 2024 20:39:06 +1000
 
 aptosid-settings-kde (1.2.22) unstable; urgency=medium
 
