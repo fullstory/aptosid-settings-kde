@@ -1,0 +1,5 @@
+[General]
+BrowserApplication=xdg-browser-launcher.desktop
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop

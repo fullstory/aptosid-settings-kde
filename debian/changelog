@@ -1,6 +1,10 @@
 aptosid-settings-kde (1.2.23) UNRELEASED; urgency=medium
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Kel Modderman ]
+  * Purge old configuration, and install new defaults to /etc/xdg.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 11 Mar 2016 21:12:05 +0100
 

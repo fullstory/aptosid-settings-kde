@@ -1,5 +1,1 @@
-kde-user-profile etc/
-kde4rc/*rc       etc/
-kde4/*           usr/share/aptosid-settings-kde/kde4/
-gtk-2.0          etc/
-mozilla/*.js     usr/share/aptosid-settings-kde/
+k* etc/xdg
