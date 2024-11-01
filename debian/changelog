@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.26) UNRELEASED; urgency=medium
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 01 Nov 2024 23:35:15 +0100
+
 aptosid-settings-kde (1.2.25) unstable; urgency=medium
 
   * Remove attempted wallpaper configuration. It will have to be done
