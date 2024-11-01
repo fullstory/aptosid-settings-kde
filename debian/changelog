@@ -1,4 +1,4 @@
-aptosid-settings-kde (1.2.25) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.25) unstable; urgency=medium
 
   * Remove attempted wallpaper configuration. It will have to be done
     via lookandfeel framework.
