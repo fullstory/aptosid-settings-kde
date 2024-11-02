@@ -1,6 +1,7 @@
-aptosid-settings-kde (1.2.27) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.27) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  [ Kel Modderman ]
+  * loadTemplate("org.kde.plasma.desktop.defaultPanel")
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 02 Nov 2024 05:34:34 +0100
 
