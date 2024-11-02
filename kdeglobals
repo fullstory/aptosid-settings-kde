@@ -2,4 +2,4 @@
 BrowserApplication=xdg-browser-launcher.desktop
 
 [KDE]
-LookAndFeelPackage=com.aptosid.kde
+LookAndFeelPackage=com.aptosid.kde.desktop
