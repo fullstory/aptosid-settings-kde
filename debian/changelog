@@ -1,6 +1,10 @@
 aptosid-settings-kde (1.2.28) UNRELEASED; urgency=medium
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Kel Modderman ]
+  * Add aptosid-art-wallpaper to depends.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 02 Nov 2024 05:38:06 +0100
 
