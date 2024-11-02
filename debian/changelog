@@ -1,7 +1,4 @@
-aptosid-settings-kde (1.2.26) UNRELEASED; urgency=medium
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+aptosid-settings-kde (1.2.26) unstable; urgency=medium
 
   [ Kel Modderman ]
   * Add plasma lookandfeel theme for aptosid-nemesis.
