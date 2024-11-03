@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.30) UNRELEASED; urgency=medium
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 23:52:32 +0100
+
 aptosid-settings-kde (1.2.29) unstable; urgency=medium
 
   * bump standards version to 4.7.0, no changes necessary.
