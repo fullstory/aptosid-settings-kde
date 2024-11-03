@@ -1,11 +1,11 @@
 Source: aptosid-settings-kde
 Section: graphics
-Priority: extra
+Priority: optional
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Uploaders: Joaquim Boura <x-un-i@sapo.pt>
-Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.6
-Vcs-git: git://github.com/fullstory/aptosid-settings-kde.git
+Uploaders: Kel Modderman <kelvmod@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Vcs-Git: https://github.com/fullstory/aptosid-settings-kde.git
 Vcs-Browser: https://github.com/fullstory/aptosid-settings-kde
 
 Package: aptosid-settings-kde

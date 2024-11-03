@@ -1,7 +1,7 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: aptosid-settings-kde
 Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Source: git://github.com/fullstory/aptosid-settings-kde.git
+Source: https://github.com/fullstory/aptosid-settings-kde.git
 
 Files: *
 Copyright: 2007-2009, Bernard Gray <bernard.gray@gmail.com>
