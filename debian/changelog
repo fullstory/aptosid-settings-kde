@@ -402,14 +402,14 @@ sidux-art-kde (1.0.10) unstable; urgency=low
 
   * Bump konversation text font up to 10pt.
 
- -- Kel Modderman <kel@otaku42.de>  Wed, 10 Sep 2008 20:31:30 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 10 Sep 2008 20:31:30 +1000
 
 sidux-art-kde (1.0.9) unstable; urgency=low
 
   * Do not explcitly set font family name. Let the system choose the correct
     one.
 
- -- Kel Modderman <kel@otaku42.de>  Wed, 10 Sep 2008 06:33:33 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 10 Sep 2008 06:33:33 +1000
 
 sidux-art-kde (1.0.8) unstable; urgency=low
 
@@ -431,7 +431,7 @@ sidux-art-kde (1.0.7) unstable; urgency=low
     as above.
   * Depend on sidux-browser, it is used as a default.
 
- -- Kel Modderman <kel@otaku42.de>  Sun, 07 Sep 2008 05:49:28 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Sun, 07 Sep 2008 05:49:28 +1000
 
 sidux-art-kde (1.0.6) unstable; urgency=low
 
@@ -442,19 +442,19 @@ sidux-art-kde (1.0.6) unstable; urgency=low
   * Add defaults for amarok.
   * Add dependency on ttf-dejavu.
 
- -- Kel Modderman <kel@otaku42.de>  Fri, 05 Sep 2008 23:05:00 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 05 Sep 2008 23:05:00 +1000
 
 sidux-art-kde (1.0.5) unstable; urgency=low
 
   * Use the same file picker override for icedove.
 
- -- Kel Modderman <kel@otaku42.de>  Thu, 04 Sep 2008 22:18:51 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Thu, 04 Sep 2008 22:18:51 +1000
 
 sidux-art-kde (1.0.4) unstable; urgency=low
 
   * Provide iceweasel preference override to disable the fugly GTK filepicker.
 
- -- Kel Modderman <kel@otaku42.de>  Tue, 02 Sep 2008 01:37:42 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Tue, 02 Sep 2008 01:37:42 +1000
 
 sidux-art-kde (1.0.3) unstable; urgency=low
 
@@ -468,14 +468,14 @@ sidux-art-kde (1.0.2) unstable; urgency=low
   * Provide /etc/gtk-2.0/gtkrc and Recommend the gtk2-engines-qtcurve package.
   * Move qt3rc to qt3 and simplify the installation of those files to /etc/.
 
- -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 02:42:00 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Mon, 01 Sep 2008 02:42:00 +1000
 
 sidux-art-kde (1.0.1) unstable; urgency=low
 
   * Stop kmix from popping its wondow up, force it to live in the tray only
     at startup.
 
- -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 02:06:04 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Mon, 01 Sep 2008 02:06:04 +1000
 
 sidux-art-kde (1.0.0) unstable; urgency=low
 
@@ -485,7 +485,7 @@ sidux-art-kde (1.0.0) unstable; urgency=low
   * Provide new binary package, sidux-settings-kde which install global
     default settings for appearance and applications.
 
- -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 01:12:28 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Mon, 01 Sep 2008 01:12:28 +1000
 
 sidux-art-kde (0.1.10) unstable; urgency=low
 
@@ -568,7 +568,7 @@ sidux-art-kde (0.1.0) unstable; urgency=low
   * Add sidux-art-kde-gaia as an optional dependency to
     sidux-art-kde-tartaros.
 
- -- Kel Modderman <kel@otaku42.de>  Fri, 29 Jun 2007 22:41:50 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 29 Jun 2007 22:41:50 +1000
 
 sidux-art-kde (0.0.6) unstable; urgency=low
 
