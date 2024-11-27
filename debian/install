@@ -1,2 +1,3 @@
 k* etc/xdg
 share usr
+sddm/*.conf etc/sddm.conf.d

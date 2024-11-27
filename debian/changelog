@@ -1,8 +1,9 @@
-aptosid-settings-kde (1.2.30) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.30) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * Add sddm.conf.d snippet to apease systemd-homed UID requirements: allow
+    UIDs up to 60513.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 23:52:32 +0100
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 27 Nov 2024 16:20:22 +1000
 
 aptosid-settings-kde (1.2.29) unstable; urgency=medium
 
