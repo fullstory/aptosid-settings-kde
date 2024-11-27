@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.31) unstable; urgency=medium
+
+  * sddm: default to sddm-theme-brfeeze.
+
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 27 Nov 2024 17:32:31 +1000
+
 aptosid-settings-kde (1.2.30) unstable; urgency=medium
 
   * Add sddm.conf.d snippet to apease systemd-homed UID requirements: allow

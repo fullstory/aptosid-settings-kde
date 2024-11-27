@@ -15,6 +15,7 @@ Depends: ${misc:Depends},
  aptosid-art-wallpaper,
  plasma-framework
 Recommends: xdg-browser-launcher,
+ sddm-theme-breeze
  ttf-dejavu
 Architecture: all
 Description: provide default KDE settings for aptosid
