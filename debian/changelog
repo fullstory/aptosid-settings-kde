@@ -1,3 +1,9 @@
+aptosid-settings-kde (1.2.32) unstable; urgency=medium
+
+  * sddm: revert breeze theming.
+
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 27 Nov 2024 18:32:26 +1000
+
 aptosid-settings-kde (1.2.31) unstable; urgency=medium
 
   * sddm: default to sddm-theme-brfeeze.
