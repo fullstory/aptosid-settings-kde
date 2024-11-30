@@ -1,12 +1,9 @@
-aptosid-settings-kde (1.2.33) UNRELEASED; urgency=medium
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+aptosid-settings-kde (1.2.33) unstable; urgency=medium
 
   [ Kel Modderman ]
   * sddm: default to wayland display server (requires weston).
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 27 Nov 2024 22:34:50 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 30 Nov 2024 23:00:06 +0100
 
 aptosid-settings-kde (1.2.32) unstable; urgency=medium
 
