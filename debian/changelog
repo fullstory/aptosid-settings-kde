@@ -1,13 +1,16 @@
-aptosid-settings-kde (1.2.34) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.35) UNRELEASED; urgency=medium
 
-  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 09:10:57 +0100
+
+aptosid-settings-kde (1.2.34) unstable; urgency=medium
 
   [ Kel Modderman ]
   * Add mimetypes.list to register aptosid-xdg-browser-launcher.desktop
     as default http and https handler.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 30 Nov 2024 23:00:24 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 09:10:42 +0100
 
 aptosid-settings-kde (1.2.33) unstable; urgency=medium
 
