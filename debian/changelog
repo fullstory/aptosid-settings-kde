@@ -1,8 +1,9 @@
-aptosid-settings-kde (1.2.35) UNRELEASED; urgency=medium
+aptosid-settings-kde (1.2.35) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  [ Kel Modderman ]
+  * Commit real clean mimeapps.list
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 09:10:57 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 09:17:30 +0100
 
 aptosid-settings-kde (1.2.34) unstable; urgency=medium
 
