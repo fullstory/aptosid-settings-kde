@@ -5,6 +5,10 @@ aptosid-settings-kde (1.2.36) UNRELEASED; urgency=medium
 
   [ Kel Modderman ]
   * debian/aptosid-settings-kde.links: purge dead symlinks.
+  * Add maintscript to rm_conffile /etc/xdg/mimeapps.list.
+  * Provide /usr/share/applications/kde-mimeapps.list as per
+    https://specifications.freedesktop.org/mime-apps-
+    spec/latest/file.html.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 09:17:55 +0100
 
