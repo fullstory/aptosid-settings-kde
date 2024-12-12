@@ -1,6 +1,10 @@
 aptosid-settings-kde (1.2.36) UNRELEASED; urgency=medium
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Kel Modderman ]
+  * debian/aptosid-settings-kde.links: purge dead symlinks.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 09:17:55 +0100
 
